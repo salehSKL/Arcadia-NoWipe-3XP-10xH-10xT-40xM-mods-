@@ -4,7 +4,7 @@
       "openbutton": 1,
       "hideicon": true,
       "hideiconafter": 10,
-      "iconurl": "https://i.imgur.com/KJFWeyd.png",
+      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
@@ -30,12 +30,16 @@
         "buttontext": "<RichColor Color=\"1,0.4,0.4,1\">📜 Rules</>",
         "content": [
           {
-            "title": "<TextStyle.Red>General Rules</>",
-            "text": "• Respect all players\n• No harassment or toxicity\n• No cheating, exploits or mesh\n• No griefing (PvE)\n• Do not block spawns or resources\n• Do not build inside artifact caves unless allowed"
+            "title": "<TextStyle.Red>🚫 General Rules</>",
+            "text": "• Respect all players and admins\n• No harassment, racism or toxicity\n• No cheating, exploits, duping or meshing\n• English only in global chat\n• Admin decisions are final"
           },
           {
-            "title": "<TextStyle.Orange>PvE & Building</>",
-            "text": "• Structure decay is <TextStyle.Green>ENABLED</>\n• Resource blocking is <TextStyle.Red>NOT allowed</>\n• Admin decisions are final\n• Be reasonable with build size"
+            "title": "<TextStyle.Orange>🏗️ Building Rules</>",
+            "text": "• Do not block resource spawns\n• No blocking obelisks, drops or artifacts\n• Artifact caves are restricted\n• Keep base size reasonable\n• Structure decay is <TextStyle.Green>ENABLED</>"
+          },
+          {
+            "title": "<TextStyle.Orange>🦖 Dino Rules</>",
+            "text": "• No aggressive dinos on wander\n• Cryo unused dinos\n• No excessive breeding (lag breeding)\n• Follow dino caps if enforced"
           }
         ]
       },
@@ -45,12 +49,16 @@
         "buttontext": "<RichColor Color=\"0.4,0.8,1,1\">⚙️ Rates</>",
         "content": [
           {
-            "title": "<TextStyle.LightBlue>Server Rates</>",
-            "text": "• XP: <TextStyle.Green>x5</>\n• Harvesting: <TextStyle.Green>x10</>\n• Taming: <TextStyle.Green>x15</>\n• Breeding: <TextStyle.Green>Boosted</>\n• Maturation: <TextStyle.Green>Very Fast</>"
+            "title": "<TextStyle.LightBlue>🌍 Server Rates</>",
+            "text": "• XP Gain: <TextStyle.Green>x5</>\n• Harvesting: <TextStyle.Green>x10</>\n• Taming Speed: <TextStyle.Green>x15</>\n• Supply Crate Loot: <TextStyle.Green>x5</>\n• Fishing Loot: <TextStyle.Green>x5</>"
           },
           {
-            "title": "<TextStyle.LightBlue>Other Settings</>",
-            "text": "• Max Wild Dino: <TextStyle.Green>150</>\n• No Wipes\n• Crossplay Enabled\n• PvE Tribe Wars Enabled\n• Supply Crate Loot: <TextStyle.Green>x5</>"
+            "title": "<TextStyle.LightBlue>🦖 Player & Dino Settings</>",
+            "text": "• Max Wild Dino Level: <TextStyle.Green>150</>\n• Player Weight: <TextStyle.Green>Boosted</>\n• Dino Weight: <TextStyle.Green>Boosted</>\n• Faster Crafting\n• Reduced Food & Water Drain"
+          },
+          {
+            "title": "<TextStyle.LightBlue>🧬 Breeding Timers</>",
+            "text": "• Mating Cooldown: <TextStyle.Green>Very Short</>\n• Egg Hatch Speed: <TextStyle.Green>x25</>\n• Baby Maturation: <TextStyle.Green>x40</>\n• Imprint Interval: <TextStyle.Green>~8 minutes</>\n• Full Imprint: <TextStyle.Green>Always Possible</>"
           }
         ]
       },
@@ -61,7 +69,7 @@
         "content": [
           {
             "title": "<TextStyle.Green>Important Gameplay Info</>",
-            "text": "🧱 <TextStyle.Yellow>Cybers Structures</>\n• Use CS Forge instead of vanilla forge\n• Faster crafting & pull systems enabled\n\n🦖 <TextStyle.Yellow>Dino Depot</>\n• Dino Balls supported\n• Imprinting supported\n\n📦 <TextStyle.Yellow>Sprinkles</>\n• Pull Range: <TextStyle.Green>90 foundations</>\n\n⚠️ Always use mod structures when available."
+            "text": "🧱 <TextStyle.Yellow>Cybers Structures (CS)</>\n• Use CS Forge instead of vanilla forge\n• Faster crafting & pull systems enabled\n\n🦖 <TextStyle.Yellow>Dino Depot</>\n• Dino Balls supported\n• Imprinting supported\n\n📦 <TextStyle.Yellow>Sprinkles</>\n• Item pulling enabled\n• Pull Range: <TextStyle.Green>90 foundations</>\n\n⚠️ Always use mod structures when available."
           }
         ]
       }
