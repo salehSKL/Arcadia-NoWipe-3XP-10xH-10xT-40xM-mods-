@@ -17,6 +17,7 @@
       {
         "layout": 1,
         "buttontext": "<RichColor Color=\"0.9,0.8,0.2,1\">🏛️ Welcome</>",
+        "imageurl": "https://i.imgur.com/gBezlUy.png",
         "content": [
           {
             "title": "<TextStyle.Yellow>Welcome to Arcadia</>",
@@ -88,4 +89,5 @@
     "version": 2
   }
 }
+
 
