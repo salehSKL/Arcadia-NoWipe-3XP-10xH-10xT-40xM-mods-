@@ -1,0 +1,79 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 1,
+      "hideicon": true,
+      "hideiconafter": 10,
+      "iconurl": "https://i.imgur.com/KJFWeyd.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 24
+    },
+
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0.9,0.8,0.2,1\">🏛️ Welcome</>",
+        "content": [
+          {
+            "title": "<TextStyle.Yellow>Welcome to Arcadia</>",
+            "text": "🌿 <TextStyle.LightBlue>Arcadia</> is a <TextStyle.Green>PvE Crossplay</> server for <TextStyle.White>ARK: Survival Ascended</>.\n\n🔱 Inspired by Greek mythology, focused on:\n• Long-term gameplay\n• No wipes\n• Quality of Life\n• Fair and friendly community\n\n⚠️ Press <TextStyle.Orange>F1</> anytime to re-open this menu."
+          }
+        ]
+      },
+
+      {
+        "layout": 2,
+        "buttontext": "<RichColor Color=\"1,0.4,0.4,1\">📜 Rules</>",
+        "content": [
+          {
+            "title": "<TextStyle.Red>General Rules</>",
+            "text": "• Respect all players\n• No harassment or toxicity\n• No cheating, exploits or mesh\n• No griefing (PvE)\n• Do not block spawns or resources\n• Do not build inside artifact caves unless allowed"
+          },
+          {
+            "title": "<TextStyle.Orange>PvE & Building</>",
+            "text": "• Structure decay is <TextStyle.Green>ENABLED</>\n• Resource blocking is <TextStyle.Red>NOT allowed</>\n• Admin decisions are final\n• Be reasonable with build size"
+          }
+        ]
+      },
+
+      {
+        "layout": 2,
+        "buttontext": "<RichColor Color=\"0.4,0.8,1,1\">⚙️ Rates</>",
+        "content": [
+          {
+            "title": "<TextStyle.LightBlue>Server Rates</>",
+            "text": "• XP: <TextStyle.Green>x5</>\n• Harvesting: <TextStyle.Green>x10</>\n• Taming: <TextStyle.Green>x15</>\n• Breeding: <TextStyle.Green>Boosted</>\n• Maturation: <TextStyle.Green>Very Fast</>"
+          },
+          {
+            "title": "<TextStyle.LightBlue>Other Settings</>",
+            "text": "• Max Wild Dino: <TextStyle.Green>150</>\n• No Wipes\n• Crossplay Enabled\n• PvE Tribe Wars Enabled\n• Supply Crate Loot: <TextStyle.Green>x5</>"
+          }
+        ]
+      },
+
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0.6,1,0.6,1\">🛠️ Instructions</>",
+        "content": [
+          {
+            "title": "<TextStyle.Green>Important Gameplay Info</>",
+            "text": "🧱 <TextStyle.Yellow>Cybers Structures</>\n• Use CS Forge instead of vanilla forge\n• Faster crafting & pull systems enabled\n\n🦖 <TextStyle.Yellow>Dino Depot</>\n• Dino Balls supported\n• Imprinting supported\n\n📦 <TextStyle.Yellow>Sprinkles</>\n• Pull Range: <TextStyle.Green>90 foundations</>\n\n⚠️ Always use mod structures when available."
+          }
+        ]
+      }
+    ],
+
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/YOURDISCORD"
+      }
+    ],
+
+    "version": 2
+  }
+}
