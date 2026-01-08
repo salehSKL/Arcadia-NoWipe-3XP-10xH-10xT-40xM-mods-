@@ -1,1 +1,9 @@
-
+[ServerSettings]
+ServerAdminPassword=Bb8899bB
+RCONEnabled=True
+KickIdlePlayersPeriod=6600
+ServerPlatform=ALL
+AdminLogging=True
+ShowFloatingDamageText=True
+HarvestAmountMultiplier=24.8
+CustomDynamicConfigUrl="https://raw.githubusercontent.com/salehSKL/Arcadia-NoWipe-3XP-10xH-10xT-40xM-mods-/refs/heads/main/DynamicConfig.txt"
