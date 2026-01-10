@@ -21,13 +21,13 @@
         "content": [
           {
             "title": "<TextStyle.Yellow>Welcome to Arcadia</>",
-            "text": "⇝ <TextStyle.White>Arcadia</> is a <TextStyle.Green>PvE Crossplay</> server for <TextStyle.White>ARK: Survival Ascended</>.\n\n⇝ Inspired by Greek mythology, Arcadia is designed for players who enjoy:\n• Long-term progression\n• No wipes\n• Quality of Life features\n• Fair and friendly gameplay\n• Stable performance\n\n⇝ Whether you play solo or with friends, Arcadia is built to be your permanent home.\n\n<TextStyle.Red>IMPORTANT:</>\n<TextStyle.Red>⇝ Please read the Instructions tab before playing.</>\n\n⇝ Press <TextStyle.Orange>F1</> anytime to re-open this menu."
+            "text": "⇝ <TextStyle.White>Arcadia</> is a <TextStyle.Green>PvE Crossplay</> server for <TextStyle.White>ARK: Survival Ascended</>.\n\n⇝ Inspired by Greek mythology, Arcadia focuses on:\n• Long-term progression (No Wipe)\n• Balanced boosted rates\n• Quality of Life settings\n• Friendly PvE community\n• Stable and smooth gameplay\n\n⇝ Server highlights:\n• XP: <TextStyle.Green>x2</>\n• Harvesting: <TextStyle.Green>x8</>\n• Taming: <TextStyle.Green>x10</>\n• Faster breeding & imprinting\n• Boosted player and dino weight\n\n<TextStyle.Red>IMPORTANT:</>\n<TextStyle.Red>⇝ Please read the Instructions tab before playing.</>\n\n⇝ Press <TextStyle.Orange>F1</> anytime to re-open this menu."
           }
         ]
       },
 
       {
-        "layout": 2,
+        "layout": 3,
         "buttontext": "<RichColor Color=\"1,0.4,0.4,1\">Ⅱ ⇛ Rules</>",
         "imageurl": "https://i.imgur.com/gBezlUy.png",
         "content": [
@@ -53,19 +53,19 @@
         "content": [
           {
             "title": "<TextStyle.Orange>⇝ Server Rates</>",
-            "text": "• XP Gain: <TextStyle.Green>x5</>\n• Harvesting: <TextStyle.Green>x10</>\n• Taming Speed: <TextStyle.Green>x15</>\n• Kill XP: <TextStyle.Green>x3</>\n• Craft XP: <TextStyle.Green>x2</>"
+            "text": "• XP Gain: <TextStyle.Green>x2</>\n• Harvesting: <TextStyle.Green>x8</>\n• Taming Speed: <TextStyle.Green>x10</>\n• Player Harvest Damage: <TextStyle.Green>x2.5</>\n• Faster resource respawn"
           },
           {
             "title": "<TextStyle.Orange>⇝ Loot & Drops</>",
-            "text": "• Supply Crate Loot: <TextStyle.Green>x5</>\n• Fishing Loot: <TextStyle.Green>x5</>\n• Boss Loot: <TextStyle.Green>Boosted</>\n• Cave Drops: <TextStyle.Green>Improved</>"
+            "text": "• Supply Crate Loot Quality: <TextStyle.Green>x3</>\n• Fishing Loot Quality: <TextStyle.Green>x4</>\n• Cave Drops: <TextStyle.Green>Improved</>\n• Boss Loot: <TextStyle.Green>Balanced</>"
           },
           {
             "title": "<TextStyle.Orange>⇝ Player & Dino Stats</>",
-            "text": "• Max Wild Dino Level: <TextStyle.Green>150</>\n• Player Weight: <TextStyle.Green>Boosted</>\n• Dino Weight: <TextStyle.Green>Boosted</>\n• Faster Crafting\n• Reduced Food & Water Drain"
+            "text": "• Max Wild Dino Level: <TextStyle.Green>300</>\n• Player Weight: <TextStyle.Green>Heavily Boosted</>\n• Dino Weight: <TextStyle.Green>Heavily Boosted</>\n• Faster health recovery\n• Reduced food, water & stamina drain"
           },
           {
             "title": "<TextStyle.Orange>⇝ Breeding Timers</>",
-            "text": "• Mating Cooldown: <TextStyle.Green>Very Short</>\n• Egg Hatch Speed: <TextStyle.Green>x25</>\n• Baby Maturation: <TextStyle.Green>x40</>\n• Imprint Interval: <TextStyle.Green>~8 minutes</>\n• 100% Imprint: <TextStyle.Green>Always Possible</>"
+            "text": "• Baby Maturation: <TextStyle.Green>x150</>\n• Egg Hatch Speed: <TextStyle.Green>x10</>\n• Mating Interval: <TextStyle.Green>Very Fast</>\n• Imprinting: <TextStyle.Green>Instant / 100%</>\n• Passive Tame Interval: <TextStyle.Green>Fast</>"
           }
         ]
       },
@@ -75,10 +75,10 @@
         "buttontext": "<RichColor Color=\"0.6,1,0.6,1\">Ⅳ ⇛ Instructions</>",
         "imageurl": "https://i.imgur.com/gBezlUy.png",
         "content": [
-      {
-        "title": "<TextStyle.Green>Gameplay & Mod Information</>",
-        "text": "⇝ <TextStyle.Yellow>Cybers Structures (CS)</>\n• <TextStyle.White>OPTIONAL</> — not required to play\n• Vanilla structures work normally\n• CS structures are enhanced for faster crafting\n• CS Forge smelts metal <TextStyle.Green>4x faster</>\n• CS Industrial Forge smelts metal <TextStyle.Green>6x faster</>\n• CS Tek Forge smelts metal <TextStyle.Green>8x faster</>\n• Other CS stations have increased crafting speeds\n• Use CS for efficiency, or vanilla for classic gameplay\n\n⇝ <TextStyle.Yellow>Dino Depot</>\n• Dino Balls supported\n• Safely store unused dinos\n• Helps reduce base clutter and server lag\n\n⇝ <TextStyle.Yellow>Sprinkles</>\n• Item pulling enabled\n• Pull Range: <TextStyle.Green>90 foundations</>\n\n⇝ All mods are balanced to improve quality of life without forcing a playstyle."
-      }
+          {
+            "title": "<TextStyle.Green>Gameplay & Mod Information</>",
+            "text": "⇝ <TextStyle.Yellow>Cybers Structures (CS)</>\n• <TextStyle.White>OPTIONAL</> — not required to play\n• Vanilla structures work normally\n• CS crafting stations are boosted for speed\n• CS Forge smelts metal <TextStyle.Green>4x faster</>\n• CS Industrial Forge <TextStyle.Green>6x</>, Tek Forge <TextStyle.Green>8x</>\n• Choose CS for efficiency or vanilla for classic gameplay\n\n⇝ <TextStyle.Yellow>Dino Depot</>\n• Dino Balls supported\n• Helps manage large dino counts\n• Reduces base clutter and lag\n\n⇝ <TextStyle.Yellow>Sprinkles</>\n• Item pulling enabled\n• Large pull range for easier building\n\n⇝ Settings are tuned for comfort without breaking balance."
+          }
         ]
       }
     ],
